@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/caijinkun/springcloudtest/
+          uri: https://github.com/Kakarotto3/springcloudtest/
           search-paths:
           - git-config
 eureka:
